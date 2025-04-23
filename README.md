@@ -21,9 +21,27 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 result.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Learn More
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To learn more about Next.js, take a look at the following resources:
+
+- [React.js Documentation](https://reactrouter.com/6.30.0) - learn about React.js
+  features and API.
+- [Learn React.js](https://reactrouter.com/6.30.0/start/tutorial) - an interactive React.js tutorial.
+
+You can check out
+[the React.js GitHub repository](https://github.com/facebook/react) - your
+feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your React.js app is to use the
+[Vercel Platform](https://vercel.com/docs)
+from the creators of React.js.
+
+Check out our
+[React.js deployment documentation](https://create-react-app.dev/docs/deployment/)
+for more details.
+
+
